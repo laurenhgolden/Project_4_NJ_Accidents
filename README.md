@@ -1,1 +1,46 @@
-# Project_4_NJ_Accidents
+# Project 4
+
+Rutgers Data Sciences Bootcamp, (8 August 2023)
+
+- [Anika Dinger](https://github.com/adinger1)
+- [Lauren Golden](https://github.com/laurenhgolden)
+- [Justine Owsik](https://github.com/jowsik)
+- [MJ Teng](https://github.com/jowsik)
+- [Ricardo Uspango-Hormiga](https://github.com/y0ungpr0digy?tab=repositories)
+
+New Jersey has the second highest population density in the United States, behind the District of Columbia. And with this high population density comes lots of traffic and congestion on roadways. Despite being ranked highly for safe drivers, accidents are very common. We are also curious as to which factors impact accident severity most. Through this project, we built a Random Forest machine learning model to predict the severity of the accident, and determine the most significant features that impact these accidents.
+
+## Questions:
+- What is the likelihood an accident could be severe?
+- What factors contribute most to the severity of a car accident?
+
+## Conclusion:
+
+
+## Data Sources
+
+- [US Accidents (2016 - 2023) via Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?resource=download)- 
+- [Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.](https://afdc.energy.gov/data/10304)
+
+
+## Built With
+
+- Python with Pandas
+- Jupyter Notebook
+- Matplotlib
+- Scikit-Learn
+- Imbalanced-Learn
+
+
+## Installation
+
+In order to correctly run our code, ensure you have installed the libraries noted above to correctly run the Jupyter notebooks. Start by running the NJ_Data_Preprocessing, and then run the Random_Forest_Model code.
+
+## Tools and Sources
+
+- Python with Pandas
+- Jupyter Notebook
+- Matplotlib
+- Scikit-Learn
+- Imbalanced-Learn
+- GitHub
