@@ -11,8 +11,7 @@ Rutgers Data Sciences Bootcamp, (8 August 2023)
 New Jersey has the second highest population density in the United States, behind the District of Columbia. And with this high population density comes lots of traffic and congestion on roadways. Despite being ranked highly for safe drivers, accidents are very common. We are also curious as to which factors impact accident severity most. Through this project, we built a Random Forest machine learning model to predict the severity of the accident, and determine the most significant features that impact these accidents.
 
 ## Questions:
-- What is the likelihood an accident could be severe?
-- What factors contribute most to the severity of a car accident?
+- What factors contribute most to the severity of a car accident's impact on traffic?
 
 ## Conclusion:
 
