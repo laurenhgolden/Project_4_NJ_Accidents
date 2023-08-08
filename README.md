@@ -13,8 +13,16 @@ New Jersey has the second highest population density in the United States, behin
 ## Questions:
 - What factors contribute most to the severity of a car accident's impact on traffic?
 
-## Conclusion:
+## Analysis Goals:
+- Identify the most important features of the dataset
+    - Environmental factors (weather conditions, temperature, humidity, etc)
+    - Traffic controllers (stop signs, traffic signals, roundabouts)
 
+- Determine accident severity accuracy through machine learning 
+
+
+## Conclusion:
+- The most significant features that affect an accident's severity and impact on traffic were Year (likely due to the pandemic), Distance, and Weather Conditions (primarily Fair, Overcast or Clear).
 
 ## Data Sources
 
