@@ -6,7 +6,6 @@ Rutgers Data Sciences Bootcamp, (8 August 2023)
 - [Lauren Golden](https://github.com/laurenhgolden)
 - [Justine Owsik](https://github.com/jowsik)
 - [MJ Teng](https://github.com/jowsik)
-- [Ricardo Uspango-Hormiga](https://github.com/y0ungpr0digy?tab=repositories)
 
 New Jersey has the second highest population density in the United States, behind the District of Columbia. And with this high population density comes lots of traffic and congestion on roadways. Despite being ranked highly for safe drivers, accidents are very common. We are also curious as to which factors impact accident severity most. Through this project, we built a Random Forest machine learning model to predict the severity of the accident, and determine the most significant features that impact these accidents.
 
@@ -38,10 +37,9 @@ New Jersey has the second highest population density in the United States, behin
 - Scikit-Learn
 - Imbalanced-Learn
 
-
 ## Installation
 
-In order to correctly run our code, ensure you have installed the libraries noted above to correctly run the Jupyter notebooks. Start by running the NJ_Data_Preprocessing, and then run the Random_Forest_Model code.
+In order to correctly run our code, ensure you have installed the libraries noted above to correctly run the Jupyter notebooks. In order to run the code, start by running the NJ_Data_Preprocessing, and then run the Random_Forest_Model code. If you would like to view the original CSV with the US data, you can look on the kaggle, as it is uploaded with our gitignore.
 
 ## Tools and Sources
 
@@ -51,3 +49,4 @@ In order to correctly run our code, ensure you have installed the libraries note
 - Scikit-Learn
 - Imbalanced-Learn
 - GitHub
+- Tableau (see visualizations here: https://public.tableau.com/views/SeverityofNewJerseyCarAccidents/NewJerseyMap?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
